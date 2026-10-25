@@ -250,13 +250,6 @@ EOF
 
 echo ""
 
-echo "Inicializando um repositório Git"
-git init
-git add .
-git commit -m "Novo projeto"
-
-echo ""
-
 echo "╔════════════════════════════╗"
 echo "║     Informações gerais     ║"
 echo "╚════════════════════════════╝"
